@@ -52,7 +52,7 @@ Die Zugangsdaten für phpmyadmin sind mit den Zugangsdaten für den Raspberry Pi
 
   1. phpmyadmin aufrufen
 
-    Im Browser die folgende Adresse eingeben: http://<ip des gerätes>/phpmyadmin/index.php?db=volkszaehler
+    Im Browser die folgende Adresse eingeben: http://ip.adresse.des.gerätes/phpmyadmin/index.php?db=volkszaehler
     Die Datenbank des NT Meters trägt den Namen `volkszaehler`.
 
     ![Sicherung vorbereiten](img/export.png?raw=true)
