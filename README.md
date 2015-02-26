@@ -43,7 +43,7 @@ Zur Datensicherung und -wiederherstellung dient das Werkzeug phpmyadmin.
 
 ### Zugangsdaten
 
-Die Zugangsdaten für phpmyadmin sind mit den Zugangsdaten für daen Raspberry Pi identisch.
+Die Zugangsdaten für phpmyadmin sind mit den Zugangsdaten für den Raspberry Pi identisch.
 
   - Username: pi
   - Passwort: raspberry
