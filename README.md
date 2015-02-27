@@ -28,6 +28,10 @@ https://github.com/sw-nuertingen/nt-meter/issues
 
 **TODO**
 
+**Zählertypen**
+
+**Auflösung des Ferraris Zählers konfigurieren**
+
 ### Kanäle anlegen und konfigurieren
 
 **TODO**
