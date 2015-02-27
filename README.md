@@ -16,7 +16,7 @@ https://github.com/sw-nuertingen/nt-meter/issues
 
 ## Installation
 
-**TODO**: Leseköpfe positionieren und anschließen, Netzwerk anschließen, Stromversorgung herstellen, IP-Adresse ermitteln (Fritzbox), Oberfläche aufrufen (http://<ip des gerätes>/frontend)
+**TODO**: Leseköpfe positionieren und anschließen, Netzwerk anschließen, Stromversorgung herstellen, IP-Adresse ermitteln (Fritzbox), Oberfläche aufrufen (http://ip.des.gerätes/frontend)
 
 
 ## Benutzeroberfläche
