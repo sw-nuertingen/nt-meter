@@ -9,9 +9,17 @@
 
 ## Support
 
-Wenn Sie Unterstützung bei der Verwendung Ihres NT-Meters benötigen nutzen Sie bitte die Funktion "Issues" um Ihre Fehlermeldungen oder Probleme zu melden:
+Wenn Sie Unterstützung bei der Verwendung Ihres NT-Meters benötigen nutzen Sie bitte die Funktion "Issues" um Ihre Fehlermeldungen oder Probleme im Supportforum zu melden:
 
 https://github.com/sw-nuertingen/nt-meter/issues
+
+### Anmeldung
+
+Für den Zugang zum Supportforum melden Sie sich nach Eingabe der Adresse im Webbroswer bitte einmalig bei GitHub an:
+
+![Anmeldung](img/signup.png?raw=true)
+
+Für die Anmeldung benötigen Sie Ihre Emailadresse.
 
 
 ## Installation
