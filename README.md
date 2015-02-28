@@ -103,6 +103,8 @@ Die Zugangsdaten für *phpmyadmin* sind mit den Zugangsdaten für den Raspberry 
 
 Das NT-Meter basiert auf dem Raspberry Pi [http://www.raspberrypi.org/](http://www.raspberrypi.org/). Als Betriebssystem wird Raspbian verwendet [http://www.raspbian.org/](http://www.raspbian.org/).
 
+Die Software des NT-Meter basiert auf dem Projekt [Volkszähler](http://volkszahler.org), einer Smart Meter Plattform mit Fokus auf Datensicherschutz und Einhaltung der Privatsphäre. [Volkszähler](http://volkszahler.org) unterliegt der GNU Publi License. Die verwendeten Quelltexte und Lizenzbestimmungen sind Bestandteil des NT-Meters und können über der Adminsitrationszugang eingesehen werden.
+
 Das System kann auf eigene Anforderungen angepasst werden. Dafür steht ein Zugang über das SSH Protokoll, Port 22, zur Verfügung:
 
   - Username: pi
